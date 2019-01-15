@@ -1,9 +1,9 @@
 # Parkfield Commerce Developer Test
-Built by **[Parkfield Commerce](https://www.parkfieldcommerce.com/)** 
+Built by **[Parkfield Commerce](https://www.parkfieldcommerce.com/)**
 
 ## Installation
 ```
-git clone git@github.com:ParkfieldCommerce/developer-hiring-test.git
+git clone git@github.com:ParkfieldCommerce/developer-test.git
 cd developer-hiring-test
 npm install
 gulp
